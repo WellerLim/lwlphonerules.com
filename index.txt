@@ -1,0 +1,23 @@
+<html>
+
+	<head>
+		<title> Rules for phone </title>
+	</head>
+
+		<body>
+			<h1> I, Lim Wei Ler. hereby to promise my daddy with conditions as mentioned below with imnedrote effect. </h1>
+			<hr />
+			<p> ~ No phone in bedroom </p>
+			<p> ~ No phone in toilet  </p>
+			<p> ~ No phone after 9.30 </p>
+			<p> ~ Rest after every 2 hours </p>
+			<p> ~ No argument </p>
+			<p> ~ Mind my mouth </p>
+			<p> ~ First thing to do when waked up is to bath </p>
+			<p> ~ No phone while eating </p>
+			<br/>
+			<p> I will obey above mentioned rules and be a good boy. </p>
+			<p> If I dont obey those rules I mentiond above I'll return my phone back to dad. </p>
+		</body>
+
+</html>
